@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [C\#](README.md)
+* [.NET Runtime](.net-runtime.md)
 
