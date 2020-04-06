@@ -1,5 +1,7 @@
 # C\#
 
+## [https://youit.pro/map/dotnetweb](https://youit.pro/map/dotnetweb#csharp)
+
 ## Lambda-выражения
 
 1. Во что преобразуются lambda-выражения в IL-коде?
